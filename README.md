@@ -14,7 +14,7 @@ Application also allows to solve problem with brute force method, but it is only
 ## How to run
 1. Open project folder /out/artifacts/Optymalizacja_jar in CLI
 2. Make sure the files with network topology descrption are in the same folder as file Optymalizacja.jar
-2. Run project with command (for eg.):
+2. Run project with command (for e.g.):
 ```sh
 java -jar .\Optymalizacja.jar
 ```
